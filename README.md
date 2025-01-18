@@ -77,7 +77,7 @@ SkillShare is an online platform that enables users to explore and enroll in var
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/skillshare.git
+  https://github.com/RaviMistry01/SkillShare-online-skill-sharing-platform.git
    ```
 2. Navigate to the project directory:
    ```bash
